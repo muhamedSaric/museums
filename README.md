@@ -1,3 +1,3 @@
 # museums
 
-Hi, I'm Muhamed Saric and iI'm  working on "Museums" project. :)
+Hi, I'm Muhamed Saric and I'm  working on "Museums" project. :)
